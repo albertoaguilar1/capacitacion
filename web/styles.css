@@ -7,3 +7,34 @@ h1{
     font-size: 50px;
     text-decoration: underline;
 }
+/*
+Selector universal
+*/
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin:0px;
+    padding: 0px;
+}
+/*selector de etiqueta*/
+
+h1{
+    background:white;
+    color: 50px;
+   padding-left: 10 px;
+}
+
+a{
+    font-size: 18px;
+    color: green;
+    text-decoration: none;
+}
+
+footer a{
+    color:red;
+}
+
+/*selector de id*/
+
+/*selector de clase*/
+
+/*selector de atributo*/
