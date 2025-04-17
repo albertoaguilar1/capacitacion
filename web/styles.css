@@ -54,3 +54,12 @@ footer a{
 
 
 /*selector de atributo*/
+#usuario form{
+    border:5px solid blue;
+    margin-top:15px;
+    margin: bottom 15px;
+}
+
+#usuario form *{
+ display: block;
+}
