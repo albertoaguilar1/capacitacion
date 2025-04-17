@@ -46,5 +46,11 @@ footer a{
     border: 2px dashed white;
 }
 /*selector de clase*/
+.parrafo{
+    font-style: italic;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
 
 /*selector de atributo*/
