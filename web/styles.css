@@ -49,12 +49,14 @@ footer a{
 #caja1{
     width: 250px;
     height:250px;
-    background-color:lightblue;
+    background-color:rgb(29, 152, 142);
 }
 #caja2{
     width: 250px;
     height:250px;
     background-color:lightblue;
+    border: 10px solid red;
+    margin:15px;
 }
 /*selector de clase*/
 .parrafo{
