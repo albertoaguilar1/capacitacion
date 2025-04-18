@@ -57,6 +57,10 @@ footer a{
     background-color:lightblue;
     border: 10px solid red;
     margin:15px;
+    margin-top: 15px;
+    margin-bottom: 40px;
+    margin-left: 24px;
+    margin-right: 10px;
 }
 /*selector de clase*/
 .parrafo{
