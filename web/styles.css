@@ -46,12 +46,8 @@ footer a{
     border: 2px dashed white;
 }
 
-#caja1{
-    width: 250px;
-    height:250px;
-    background-color:rgb(29, 152, 142);
-}
-#caja2{
+
+#caja2,#caja1{
     width: 250px;
     height:250px;
     background-color:lightblue;
@@ -61,6 +57,7 @@ footer a{
     margin-bottom: 40px;
     margin-left: 24px;
     margin-right: 10px;
+    float: left;
 }
 
 p{
